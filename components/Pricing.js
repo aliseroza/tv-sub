@@ -5,19 +5,19 @@ const Pricing = () => {
     {
       title: 'Free',
       price: '$0',
-		  time: '60 min',
-      url: 'https://wa.me/+447874804631'
-    },
-    {
-      title: '6 Month',
-      price: '$30',
-		  time: '6 month',
+		  time: '120 min',
       url: 'https://wa.me/+447874804631'
     },
     {
       title: '1 Year',
-      price: '$40',
+      price: '40 euro',
 		  time: '12 month',
+      url: 'https://wa.me/+447874804631'
+    },
+    {
+      title: '2 Year',
+      price: '65 euro',
+		  time: '24 month',
       url: 'https://wa.me/+447874804631'
     }
   ]
