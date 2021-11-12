@@ -4,7 +4,7 @@ const Pricing = () => {
   const plans = [
     {
       title: 'Free',
-      price: '$0',
+      price: 'Free',
 		  time: '120 min',
       url: 'https://wa.me/+447874804631'
     },
