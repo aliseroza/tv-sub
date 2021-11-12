@@ -1,0 +1,16 @@
+html {
+  scroll-behavior: smooth
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #141c3a;
+}
+
+.badge {
+  top: 18px;
+  right: -30px;
+  transform: rotate(45deg);
+  z-index: 2;
+  font-size: 14px;
+}
